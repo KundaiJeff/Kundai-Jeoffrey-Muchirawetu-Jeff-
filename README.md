@@ -31,7 +31,7 @@ I specialize in **React.js, Next.js, JavaScript, CSS, and Tailwind CSS**.
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/kundai-jeoffrey-muchirawetu-53197937b)  
+- 💼 [LinkedIn](www.linkedin.com/in/kundai-jeoffrey-muchirawetu-53197937b/)  
 - 🌐 [Portfolio Website](https://portfolio-site-six-rho.vercel.app/)  
 - 📧 Email: kjmuchirawetu@gmail.com 
 
